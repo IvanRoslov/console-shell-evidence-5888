@@ -1,0 +1,1 @@
+Acceptance screenshots for lepsto-workspace PR #941.
